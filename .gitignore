@@ -1,3 +1,4 @@
 *.pt
 *.pkl
 chinese-bert-wwm-ext/
+.idea/
